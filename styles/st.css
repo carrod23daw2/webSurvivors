@@ -1,0 +1,22 @@
+*{
+    position: absolute;
+}
+
+#prota {
+    height: 50px;
+    width: 50px;
+    background-color: blueviolet;
+    
+    border-radius: 50px;
+}
+
+#a{
+    background-color:red;
+    padding: 10px;
+}
+
+.hostile{
+    background-color:rgb(117, 18, 117);
+    padding: 18px;
+    border-radius: 50px;
+}
